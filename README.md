@@ -1,2 +1,0 @@
-# Scraping
-Alexandre de Temmerman
